@@ -29,7 +29,7 @@ const Content = () => {
           <ScrollContent
             imgUrl={apple}
             subheading="Career,"
-            heading="aspirations, and dreams"
+            heading="Aspirations, and Dreams"
           >
             <AboutSection />
           </ScrollContent>
@@ -38,7 +38,7 @@ const Content = () => {
           <ScrollContent
             imgUrl={library}
             subheading="Credibility,"
-            heading="education, and skills"
+            heading="Education, and Skills"
           >
             <EducationSection />
           </ScrollContent>
