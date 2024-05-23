@@ -228,7 +228,15 @@ const AboutSection = () => (
         Living in Tokyo is pretty cool dream of mine. Or any big city for that
         matter. I want to be in a walkable space where I can meet others.
       </p>
-      <p className="mb-8 text-xl text-slate-300 md:text-2xl"></p>
+      <p className="mb-8 text-xl text-slate-300 md:text-2xl">
+        You can find my resume{" "}
+        <a
+          href="https://drive.google.com/file/d/1zLnOuoIVQ9k_8w3g7j7ue5mO_9XeHK_6/view?usp=sharing"
+          target="_blank"
+        >
+          <strong>here!</strong>
+        </a>
+      </p>
     </div>
   </div>
 );
@@ -283,6 +291,10 @@ const ProjectSection = () => (
       <p className="mb-8 text-xl text-slate-300 md:text-2xl">
         Developed an algorithm for an embedded system to optimize testing
         process at my Engineering internship.
+      </p>
+      <p className="mb-8 text-xl text-slate-300 md:text-2xl">
+        Developed an embedded gaming system as part of a Emebdded Systems class
+        final project.
       </p>
     </div>
   </div>
